@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: vm-console-proxy
     app.kubernetes.io/part-of: vm-console-proxy
-  name: vm-console-proxygi6k
+  name: vm-console-proxyfyxv
 spec:
   port:
     targetPort: 8080

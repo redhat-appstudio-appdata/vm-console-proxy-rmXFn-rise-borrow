@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/aaguirre-tenant/vm-console-proxy/vm-console-proxy@sha256:c7bb5abe8770d2a10233bcec4c21e544aae3d76dbc6d88565a75e0d3749bec92
+      - image: quay.io/redhat-user-workloads/aaguirre-tenant/vm-console-proxy/vm-console-proxy@sha256:5e5c95a356b008aed21182067f9c382ea50a0ce60d281d9f013fcb840f850bc0
         name: container-image
         resources: {}
 status: {}

@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: vm-console-proxy
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/aaguirre-tenant/vm-console-proxy/vm-console-proxy@sha256:f7ad3fb7434783bce4046990fb2f1613f23a25b11f237fecba4cc413377ea3a4
+      - image: quay.io/redhat-user-workloads/aaguirre-tenant/vm-console-proxy/vm-console-proxy@sha256:8ddc772f98122b969fd823de4236eb77c2595d193b76d98eb94f460fddb3925d
         imagePullPolicy: Always
         name: container-image
         ports:
